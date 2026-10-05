@@ -1,0 +1,15 @@
+# --------------------------------------------------------------------------- #
+#  AnyDesk Timer Removal - Python dependencies
+#
+#  Install the runtime dependency to run the app from source:
+#      pip install -r requirements.txt
+# --------------------------------------------------------------------------- #
+
+# Runtime (required) - the GUI toolkit used by app.py
+PyQt6>=6.9,<7
+
+# --------------------------------------------------------------------------- #
+#  Build tooling (only needed to produce the .exe / Setup.exe)
+# --------------------------------------------------------------------------- #
+pyinstaller>=6.19          # freezes app.py into a standalone executable
+pillow>=11.3               # optional; downscales the artwork for the bundle

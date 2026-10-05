@@ -1,0 +1,22 @@
+# Normalise line endings in the repository, and check out Windows-specific
+# files with CRLF so batch/setup scripts always behave correctly (including
+# when the repo is downloaded as a ZIP from GitHub).
+* text=auto
+
+# Windows scripts - must keep CRLF when checked out
+*.bat text eol=crlf
+*.iss text eol=crlf
+*.ps1 text eol=crlf
+
+# Source / docs - normalise to LF
+*.py  text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+
+# Binary assets - never touch
+*.png binary
+*.ico binary
+*.exe binary
+*.dll binary
+*.pyd binary
+*.zip binary
