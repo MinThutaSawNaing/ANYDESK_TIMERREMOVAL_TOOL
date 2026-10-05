@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?logo=windows&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](#)
 [![GUI](https://img.shields.io/badge/GUI-PyQt6-41CD52?logo=qt&logoColor=white)](#)
-[![Version](https://img.shields.io/badge/Version-1.0.0-2ea44f)](#)
+[![Version](https://img.shields.io/github/v/release/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL?color=2ea44f&label=version)](https://github.com/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL/releases)
 [![Installer](https://img.shields.io/badge/Installer-Inno%20Setup-lightgrey)](#)
 
 </div>
@@ -84,11 +84,11 @@ Grab the ready-to-run installer — no build steps, no Python, just download and
 
 <div align="center">
 
-<a href="https://github.com/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL/raw/main/Windows%20Downloads%20%28Click%20Here%20to%20download%20exe%29/AnyDesk%20Timer%20Removal%20Setup.exe">
+<a href="https://github.com/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL/releases/latest/download/AnyDesk.Timer.Removal.Setup.exe">
   <img src="https://img.shields.io/badge/DOWNLOAD-Anydesk%20Timer%20Removal%20Setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download AnyDesk Timer Removal Setup.exe" height="46">
 </a>
 
-<sub><b>AnyDesk Timer Removal Setup.exe</b> &nbsp;·&nbsp; Windows 10 / 11 (64-bit) &nbsp;·&nbsp; ~16 MB &nbsp;·&nbsp; no Python required</sub>
+<sub><b>v1.0.0</b> &nbsp;·&nbsp; Windows 10 / 11 (64-bit) &nbsp;·&nbsp; ~16 MB &nbsp;·&nbsp; no Python required &nbsp;·&nbsp; <a href="https://github.com/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL/releases">all releases</a></sub>
 
 </div>
 
@@ -186,6 +186,8 @@ ANYDESK TIMER REMOVAL TOOL/
 │  └─ Completed.png
 ├─ Windows Downloads (Click Here to download exe)/
 │  └─ AnyDesk Timer Removal Setup.exe       # Ready-to-run installer
+├─ .github/
+│  └─ social-preview.png                    # Card for GitHub's Social preview setting
 ├─ requirements.txt
 ├─ .gitattributes                           # Keeps batch scripts as CRLF
 ├─ .gitignore
