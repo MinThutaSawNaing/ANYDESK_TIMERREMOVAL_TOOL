@@ -80,11 +80,19 @@ Clearing the configuration is what resets the session timer — hence the name.
 
 ## Download
 
-Grab the ready-to-run installer:
+Grab the ready-to-run installer — no build steps, no Python, just download and run:
 
-> **[Download `AnyDesk Timer Removal Setup.exe`](<Windows Downloads (Click Here to download exe)/AnyDesk Timer Removal Setup.exe>)**
+<div align="center">
 
-Run the setup and launch **AnyDesk Timer Removal** from the Start Menu.
+<a href="https://github.com/MinThutaSawNaing/ANYDESK_TIMERREMOVAL_TOOL/raw/main/Windows%20Downloads%20%28Click%20Here%20to%20download%20exe%29/AnyDesk%20Timer%20Removal%20Setup.exe">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Anydesk%20Timer%20Removal%20Setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download AnyDesk Timer Removal Setup.exe" height="46">
+</a>
+
+<sub><b>AnyDesk Timer Removal Setup.exe</b> &nbsp;·&nbsp; Windows 10 / 11 (64-bit) &nbsp;·&nbsp; ~16 MB &nbsp;·&nbsp; no Python required</sub>
+
+</div>
+
+Then run the setup and launch **AnyDesk Timer Removal** from the Start Menu.
 
 - Installs **per-user by default** (no UAC needed to install); you can choose
   *install for all users* in the privileges dialog.
